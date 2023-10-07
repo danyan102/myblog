@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <!-- Copyright © 2020 by www.x6k.com -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+
+    <div style="position: absolute; left: 0; right:0;width: 50%; height: 50%;margin: auto;" class="container-fluid" id="comments">
+        <div class="row comment">
+            <div class="col-xs-10 col-sm-10 col-md-6 col-xs-push-1 col-sm-push-1 col-md-push-3">
+                <h2>留言：</h2>
+                <div id="vcomments"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src='../js/Valine.min.js'></script><!-- Valine 评论系统 -->
+
+    <a href="javascript:history.back(-1)">返回上一页</a>
+    
+
+    <!-- Valine 评论系统； 由 LeanCloud 管理数据 -->
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: '0z894TAHIGGYhVtCnaKlujSQ-gzGzoHsz',
+            appKey: '24xFYxRPMA2Acqmtmfe8jDh4'
+        })
+    </script>
+    
+</body>
+
+</html>
