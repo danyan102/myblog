@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Danyan的小窝</title>
+  
+  <subtitle>轻舟已过万重山</subtitle>
+  <link href="https://github.com/danyan102/myblog/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/danyan102/myblog/"/>
+  <updated>2023-10-08T13:17:11.069Z</updated>
+  <id>https://github.com/danyan102/myblog/</id>
+  
+  <author>
+    <name>Danyan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="https://github.com/danyan102/myblog/2023/10/08/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://github.com/danyan102/myblog/2023/10/08/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2023-10-07T16:00:00.000Z</published>
+    <updated>2023-10-08T13:17:11.069Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于这个博客-我为什么要创建一个博客"><a href="#关于这个博客-我为什么要创建一个博客" class="headerlink" title="关于这个博客&#x2F;我为什么要创建一个博客"></a>关于这个博客&#x2F;我为什么要创建一个博客</h1><p>首先说一下我自己</p><blockquote><p>我现在是一个正在实习的学生，学的专业是教育类的，所以只能算做爱好吧。闲时在B站和抖音上学学，学到一些东西就想着用用，不过能实践的机会很少，后来就接触到了博客，自己又比较喜欢记录，就打算在这上面将自己的日常生活、感悟和学习情况进行记录。</p></blockquote><span id="more"></span><h4 id="Danyan"><a href="#Danyan" class="headerlink" title="Danyan"></a>Danyan</h4><blockquote><p>没错，Danyan这个ID就是我的QQ还有微信甚至各个游戏名都是这个，也是我从小学六年级开始用的ID，我也不知道我为什么会这么喜欢用这个ID，之前有好多人都认为这个ID对我来说有什么特殊意义，说什么这是我暗恋人的名字啊、女朋友的名字啊等等，我说我也不知道，可能这就是一种强迫症吧。</p></blockquote><h1 id="写什么"><a href="#写什么" class="headerlink" title="写什么"></a>写什么</h1><p>首先说一下博客的内容，我大概会分为几个方面<br><strong>工作和学习的笔记、记录，方便查阅</strong><br>每次学习实践之后，要将自己的实践经验和遇到的问题记录下来，以后要用的时候能够直接找到，就不要再去网上慢慢找了，减少了时间成本；而且下次实践的时候如果遇到新的问题和情况，或者启发到了一些新的想法，可以对第一次的实践进行更深的认识和理论学习，可以继续扩充完善这篇文章，不断迭代更新。<br>这类文章大概有一下几个方面</p><ul><li>环境部署（Node.js、Python等）</li><li>一些好用的软件和插件</li><li>常用和一些好玩的代码</li></ul><h1 id="怎么写"><a href="#怎么写" class="headerlink" title="怎么写"></a>怎么写</h1><p>我主要会用<code>Markdown</code>这个软件进行编写<br>Markdown 是一种轻量级标记语言，现在几乎各大平台都提供了Markdown编辑器，包括CSDN、知乎、简述、掘金、公众号等；这个语言学习起来很简单，而且可以让我们在写作时可以专心与内容，而通过一些符号就能完成样式的排版，不用再写完后排版，省时省力；</p><h4 id="文章"><a href="#文章" class="headerlink" title="文章"></a>文章</h4><p>我打算在文章中只使用两级文章标题，太多级会显得逻辑很杂；<br>实现两级标题时，用Markdown的一级标题和四级标题样式，即一个 # 和四个 # 去实现，这样更有区分性；<br>每个一级标题下面加一条灰线，更好的与二级标题区分，也更凸显一级标题；</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;关于这个博客-我为什么要创建一个博客&quot;&gt;&lt;a href=&quot;#关于这个博客-我为什么要创建一个博客&quot; class=&quot;headerlink&quot; title=&quot;关于这个博客&amp;#x2F;我为什么要创建一个博客&quot;&gt;&lt;/a&gt;关于这个博客&amp;#x2F;我为什么要创建一个博客&lt;/h1&gt;&lt;p&gt;首先说一下我自己&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我现在是一个正在实习的学生，学的专业是教育类的，所以只能算做爱好吧。闲时在B站和抖音上学学，学到一些东西就想着用用，不过能实践的机会很少，后来就接触到了博客，自己又比较喜欢记录，就打算在这上面将自己的日常生活、感悟和学习情况进行记录。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+    <category term="日常" scheme="https://github.com/danyan102/myblog/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="web" scheme="https://github.com/danyan102/myblog/tags/web/"/>
+    
+  </entry>
+  
+</feed>
