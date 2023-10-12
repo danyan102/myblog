@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>第一篇博客</title>
+    <url>/myblog/2023/10/08/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h1 id="关于这个博客-我为什么要创建一个博客"><a href="#关于这个博客-我为什么要创建一个博客" class="headerlink" title="关于这个博客&#x2F;我为什么要创建一个博客"></a>关于这个博客&#x2F;我为什么要创建一个博客</h1><p>首先说一下我自己</p>
+<blockquote>
+<p>我现在是一个正在实习的学生，学的专业是教育类的，所以只能算做爱好吧。闲时在B站和抖音上学学，学到一些东西就想着用用，不过能实践的机会很少，后来就接触到了博客，自己又比较喜欢记录，就打算在这上面将自己的日常生活、感悟和学习情况进行记录。</p>
+</blockquote>
+<span id="more"></span>
+
+<h4 id="Danyan"><a href="#Danyan" class="headerlink" title="Danyan"></a>Danyan</h4><blockquote>
+<p>没错，Danyan这个ID就是我的QQ还有微信甚至各个游戏名都是这个，也是我从小学六年级开始用的ID，我也不知道我为什么会这么喜欢用这个ID，之前有好多人都认为这个ID对我来说有什么特殊意义，说什么这是我暗恋人的名字啊、女朋友的名字啊等等，我说我也不知道，可能这就是一种强迫症吧。</p>
+</blockquote>
+<h1 id="写什么"><a href="#写什么" class="headerlink" title="写什么"></a>写什么</h1><p>首先说一下博客的内容，我大概会分为几个方面<br><strong>工作和学习的笔记、记录，方便查阅</strong><br>每次学习实践之后，要将自己的实践经验和遇到的问题记录下来，以后要用的时候能够直接找到，就不要再去网上慢慢找了，减少了时间成本；而且下次实践的时候如果遇到新的问题和情况，或者启发到了一些新的想法，可以对第一次的实践进行更深的认识和理论学习，可以继续扩充完善这篇文章，不断迭代更新。<br>这类文章大概有一下几个方面</p>
+<ul>
+<li>环境部署（Node.js、Python等）</li>
+<li>一些好用的软件和插件</li>
+<li>常用和一些好玩的代码</li>
+</ul>
+<h1 id="怎么写"><a href="#怎么写" class="headerlink" title="怎么写"></a>怎么写</h1><p>我主要会用<code>Markdown</code>这个软件进行编写<br>Markdown 是一种轻量级标记语言，现在几乎各大平台都提供了Markdown编辑器，包括CSDN、知乎、简述、掘金、公众号等；这个语言学习起来很简单，而且可以让我们在写作时可以专心与内容，而通过一些符号就能完成样式的排版，不用再写完后排版，省时省力；</p>
+<h4 id="文章"><a href="#文章" class="headerlink" title="文章"></a>文章</h4><p>我打算在文章中只使用两级文章标题，太多级会显得逻辑很杂；<br>实现两级标题时，用Markdown的一级标题和四级标题样式，即一个 # 和四个 # 去实现，这样更有区分性；<br>每个一级标题下面加一条灰线，更好的与二级标题区分，也更凸显一级标题；</p>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+        <tag>web</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Markdown语法</title>
+    <url>/myblog/2023/10/09/markdown/</url>
+    <content><![CDATA[<h1 id="标题语法"><a href="#标题语法" class="headerlink" title="标题语法"></a>标题语法</h1> <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">### 三级标题</span><br><span class="line">.....以此类推</span><br></pre></td></tr></table></figure>
+<blockquote>
+<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3></blockquote>
+<span id="more"></span>
+<h1 id="字体粗体"><a href="#字体粗体" class="headerlink" title="字体粗体"></a>字体粗体</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">**bold text**</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><strong>bold text</strong></p>
+</blockquote>
+<h1 id="斜体"><a href="#斜体" class="headerlink" title="斜体"></a>斜体</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">*italicized text*</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><em>italicized text</em></p>
+</blockquote>
+<h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt; blockquote</span><br></pre></td></tr></table></figure>
+<h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><h2 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1. 列表一</span><br><span class="line">2. 列表二</span><br><span class="line">3. 列表三</span><br></pre></td></tr></table></figure>
+<blockquote>
+<ol>
+<li>列表一</li>
+<li>列表二</li>
+<li>列表三</li>
+</ol>
+</blockquote>
+<h2 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">- 列表一</span><br><span class="line">- 列表二</span><br><span class="line">- 列表三</span><br></pre></td></tr></table></figure>
+<blockquote>
+<ul>
+<li>列表一</li>
+<li>列表二</li>
+<li>列表三</li>
+</ul>
+</blockquote>
+<h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`code`</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><code>code</code></p>
+</blockquote>
+<h1 id="分隔线"><a href="#分隔线" class="headerlink" title="分隔线"></a>分隔线</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<hr>
+</blockquote>
+<h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[title]（网址）</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>这是一个链接 <a href="https://danyan102.github.io/myblog/" title="最好的markdown教程">DanYan的小窝</a>。</p>
+</blockquote>
+<h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">！[alt text]（图片地址）</span><br></pre></td></tr></table></figure>
+
+<p><img src="http://s2d5cgcwq.hn-bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-11%20200341.png?e=1697026450&token=wwAntVyyBuOvT7iwhhw3BS08P8aHoCEydeFmcqzu:7YJU5n4b5HLm69rlzCUXNCh3x7s=" alt="这是图片" title="Magic Gardens"></p>
+]]></content>
+      <tags>
+        <tag>Markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>全屏爱心HTML</title>
+    <url>/myblog/2023/10/11/%E5%85%A8%E5%B1%8F%E7%88%B1%E5%BF%83HTml/</url>
+    <content><![CDATA[<p>我发现一个比较好玩的一个页面</p>
+<span id="more"></span>
+<p>它的源码是</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html lang=&quot;en&quot;&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">  &lt;meta charset=&quot;UTF-8&quot;&gt;</span><br><span class="line">  &lt;title&gt;爱心&lt;/title&gt;</span><br><span class="line">  &lt;style&gt;</span><br><span class="line">    *&#123;margin:0; padding:0;&#125;</span><br><span class="line">    body&#123; background-color: #1E1E1E;     &#125;</span><br><span class="line">  &lt;/style&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line"> </span><br><span class="line">  &lt;canvas id=&quot;drawHeart&quot;&gt;&lt;/canvas&gt;</span><br><span class="line"> </span><br><span class="line">  &lt;script&gt;</span><br><span class="line">    var hearts = [];</span><br><span class="line">    var canvas = document.getElementById(&#x27;drawHeart&#x27;);</span><br><span class="line">    var wW = window.innerWidth;</span><br><span class="line">    var wH = window.innerHeight;</span><br><span class="line">    // 创建画布</span><br><span class="line">    var ctx = canvas.getContext(&#x27;2d&#x27;);</span><br><span class="line">    // 创建图片对象</span><br><span class="line">    var heartImage = new Image();</span><br><span class="line">    heartImage.src = &#x27;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fgss0.baidu.com%2F-vo3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fpic%2Fitem%2Fb21bb051f81986186b44770a48ed2e738bd4e639.jpg&amp;refer=http%3A%2F%2Fgss0.baidu.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=jpeg?sec=1641477598&amp;t=2165eac282333ad148983fb776b59f13&#x27;;</span><br><span class="line">    var num = 100;</span><br><span class="line"> </span><br><span class="line">    init();</span><br><span class="line"> </span><br><span class="line">    window.addEventListener(&#x27;resize&#x27;, function()&#123;</span><br><span class="line">       wW = window.innerWidth;</span><br><span class="line">       wH = window.innerHeight;</span><br><span class="line">    &#125;);</span><br><span class="line">    // 初始化画布大小</span><br><span class="line">    function init()&#123;</span><br><span class="line">      canvas.width = wW;</span><br><span class="line">      canvas.height = wH;</span><br><span class="line">      for(var i = 0; i &lt; num; i++)&#123;</span><br><span class="line">        hearts.push(new Heart(i%5));</span><br><span class="line">      &#125;</span><br><span class="line">      requestAnimationFrame(render);</span><br><span class="line">    &#125;</span><br><span class="line"> </span><br><span class="line">    function getColor()&#123;</span><br><span class="line">      var val = Math.random() * 10;</span><br><span class="line">      if(val &gt; 0 &amp;&amp; val &lt;= 1)&#123;</span><br><span class="line">        return &#x27;#00f&#x27;;</span><br><span class="line">      &#125; else if(val &gt; 1 &amp;&amp; val &lt;= 2)&#123;</span><br><span class="line">        return &#x27;#f00&#x27;;</span><br><span class="line">      &#125; else if(val &gt; 2 &amp;&amp; val &lt;= 3)&#123;</span><br><span class="line">        return &#x27;#0f0&#x27;;</span><br><span class="line">      &#125; else if(val &gt; 3 &amp;&amp; val &lt;= 4)&#123;</span><br><span class="line">        return &#x27;#368&#x27;;</span><br><span class="line">      &#125; else if(val &gt; 4 &amp;&amp; val &lt;= 5)&#123;</span><br><span class="line">        return &#x27;#666&#x27;;</span><br><span class="line">      &#125; else if(val &gt; 5 &amp;&amp; val &lt;= 6)&#123;</span><br><span class="line">        return &#x27;#333&#x27;;</span><br><span class="line">      &#125; else if(val &gt; 6 &amp;&amp; val &lt;= 7)&#123;</span><br><span class="line">        return &#x27;#f50&#x27;;</span><br><span class="line">      &#125; else if(val &gt; 7 &amp;&amp; val &lt;= 8)&#123;</span><br><span class="line">        return &#x27;#e96d5b&#x27;;</span><br><span class="line">      &#125; else if(val &gt; 8 &amp;&amp; val &lt;= 9)&#123;</span><br><span class="line">        return &#x27;#5be9e9&#x27;;</span><br><span class="line">      &#125; else &#123;</span><br><span class="line">        return &#x27;#d41d50&#x27;;</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line"> </span><br><span class="line">    function getText()&#123;</span><br><span class="line">      var val = Math.random() * 10;</span><br><span class="line">      if(val &gt; 1 &amp;&amp; val &lt;= 3)&#123;</span><br><span class="line">        return &#x27;爱你一辈子&#x27;;</span><br><span class="line">      &#125; else if(val &gt; 3 &amp;&amp; val &lt;= 5)&#123;</span><br><span class="line">        return &#x27;感谢你&#x27;;</span><br><span class="line">      &#125; else if(val &gt; 5 &amp;&amp; val &lt;= 8)&#123;</span><br><span class="line">        return &#x27;喜欢你&#x27;;</span><br><span class="line">      &#125; else&#123;</span><br><span class="line">        return &#x27;I Love You&#x27;;</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line"> </span><br><span class="line">    function Heart(type)&#123;</span><br><span class="line">      this.type = type;</span><br><span class="line">      // 初始化生成范围</span><br><span class="line">      this.x = Math.random() * wW;</span><br><span class="line">      this.y = Math.random() * wH;</span><br><span class="line"> </span><br><span class="line">      this.opacity = Math.random() * .5 + .5;</span><br><span class="line"> </span><br><span class="line">      // 偏移量</span><br><span class="line">      this.vel = &#123;</span><br><span class="line">        x: (Math.random() - .5) * 5,</span><br><span class="line">        y: (Math.random() - .5) * 5</span><br><span class="line">      &#125;</span><br><span class="line"> </span><br><span class="line">      this.initialW = wW * .5;</span><br><span class="line">      this.initialH = wH * .5;</span><br><span class="line">      // 缩放比例</span><br><span class="line">      this.targetScale = Math.random() * .15 + .02; // 最小0.02</span><br><span class="line">      this.scale = Math.random() * this.targetScale;</span><br><span class="line"> </span><br><span class="line">      // 文字位置</span><br><span class="line">      this.fx = Math.random() * wW;</span><br><span class="line">      this.fy = Math.random() * wH;</span><br><span class="line">      this.fs = Math.random() * 10;</span><br><span class="line">      this.text = getText();</span><br><span class="line"> </span><br><span class="line">      this.fvel = &#123;</span><br><span class="line">        x: (Math.random() - .5) * 5,</span><br><span class="line">        y: (Math.random() - .5) * 5,</span><br><span class="line">        f: (Math.random() - .5) * 2</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line"> </span><br><span class="line">    Heart.prototype.draw = function()&#123;</span><br><span class="line">      ctx.save();</span><br><span class="line">      ctx.globalAlpha = this.opacity;</span><br><span class="line">      ctx.drawImage(heartImage, this.x, this.y, this.width, this.height);</span><br><span class="line">      ctx.scale(this.scale + 1, this.scale + 1);</span><br><span class="line">        if(!this.type)&#123;</span><br><span class="line">          // 设置文字属性</span><br><span class="line">        ctx.fillStyle = getColor();</span><br><span class="line">          ctx.font = &#x27;italic &#x27; + this.fs + &#x27;px sans-serif&#x27;;</span><br><span class="line">          // 填充字符串</span><br><span class="line">          ctx.fillText(this.text, this.fx, this.fy);</span><br><span class="line">        &#125;</span><br><span class="line">      ctx.restore();</span><br><span class="line">    &#125;</span><br><span class="line">    Heart.prototype.update = function()&#123;</span><br><span class="line">      this.x += this.vel.x;</span><br><span class="line">      this.y += this.vel.y;</span><br><span class="line"> </span><br><span class="line">      if(this.x - this.width &gt; wW || this.x + this.width &lt; 0)&#123;</span><br><span class="line">        // 重新初始化位置</span><br><span class="line">        this.scale = 0;</span><br><span class="line">        this.x = Math.random() * wW;</span><br><span class="line">        this.y = Math.random() * wH;</span><br><span class="line">      &#125;</span><br><span class="line">      if(this.y - this.height &gt; wH || this.y + this.height &lt; 0)&#123;</span><br><span class="line">        // 重新初始化位置</span><br><span class="line">        this.scale = 0;</span><br><span class="line">        this.x = Math.random() * wW;</span><br><span class="line">        this.y = Math.random() * wH;</span><br><span class="line">      &#125;</span><br><span class="line"> </span><br><span class="line">      // 放大</span><br><span class="line">      this.scale += (this.targetScale - this.scale) * .1;</span><br><span class="line">      this.height = this.scale * this.initialH;</span><br><span class="line">      this.width = this.height * 1.4;</span><br><span class="line"> </span><br><span class="line">      // -----文字-----</span><br><span class="line">      this.fx += this.fvel.x;</span><br><span class="line">      this.fy += this.fvel.y;</span><br><span class="line">      this.fs += this.fvel.f;</span><br><span class="line"> </span><br><span class="line">      if(this.fs &gt; 50)&#123;</span><br><span class="line">        this.fs = 2;</span><br><span class="line">      &#125;</span><br><span class="line"> </span><br><span class="line">      if(this.fx - this.fs &gt; wW || this.fx + this.fs &lt; 0)&#123;</span><br><span class="line">        // 重新初始化位置</span><br><span class="line">        this.fx = Math.random() * wW;</span><br><span class="line">        this.fy = Math.random() * wH;</span><br><span class="line">      &#125;</span><br><span class="line">      if(this.fy - this.fs &gt; wH || this.fy + this.fs &lt; 0)&#123;</span><br><span class="line">        // 重新初始化位置</span><br><span class="line">        this.fx = Math.random() * wW;</span><br><span class="line">        this.fy = Math.random() * wH;</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line"> </span><br><span class="line">    function render()&#123;</span><br><span class="line">      ctx.clearRect(0, 0, wW, wH);</span><br><span class="line">      for(var i = 0; i &lt; hearts.length; i++)&#123;</span><br><span class="line">        hearts[i].draw();</span><br><span class="line">        hearts[i].update();</span><br><span class="line">      &#125;</span><br><span class="line">      requestAnimationFrame(render);</span><br><span class="line">    &#125;</span><br><span class="line">  &lt;/script&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure>
+<p>这是渲染图</p>
+<p><img src="http://s2d5cgcwq.hn-bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-11%20202956.png?e=1697113839&token=wwAntVyyBuOvT7iwhhw3BS08P8aHoCEydeFmcqzu:ChrhT4qPhyn8KnA18F3Dbwus1mI=" alt="这是图片" title="截图"></p>
+]]></content>
+      <tags>
+        <tag>插件，日常</tag>
+      </tags>
+  </entry>
+</search>
